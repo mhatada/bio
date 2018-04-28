@@ -4,12 +4,14 @@ He is currently a senior manager at NTT Communications Corporation. He received 
 
 Publications
 -
-[Jounral Papers, Conferences Papers, Posters, Invited Talks, Books, and Others](https://github.com/mhatada/publication)
+* [Jounral Papers, Conferences Papers, and Others](https://github.com/mhatada/publication)
 
 Committees
 -
-[MWS](http://www.iwsec.org/mws/2012/en.html)
-[IPSJ CSEC](http://www.iwsec.org/csec/en/index.html)
-[IEICE ICSS](http://www.ieice.org/~icss/index.en.html)
+* [MWS](http://www.iwsec.org/mws/2012/en.html)
+
+* [IPSJ CSEC](http://www.iwsec.org/csec/en/index.html)
+
+* [IEICE ICSS](http://www.ieice.org/~icss/index.en.html)
 
 
