@@ -14,4 +14,4 @@ Committees
 
 * [IEICE ICSS](http://www.ieice.org/~icss/index.en.html)
 
-
+* [CSDE](https://securingdigitaleconomy.org/)
