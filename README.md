@@ -15,3 +15,9 @@ Committees
 * [IEICE ICSS](http://www.ieice.org/~icss/index.en.html)
 
 * [CSDE](https://securingdigitaleconomy.org/)
+
+Misc
+-
+* [Visits](https://mhatada.github.io/visit/)
+* [Notes](https://mhatada.github.io/note/)
+* [Movies](https://mhatada.github.io/movie/)
