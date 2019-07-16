@@ -19,5 +19,7 @@ Committees
 Misc
 -
 * [Visits](https://mhatada.github.io/visit/)
+
 * [Notes](https://mhatada.github.io/note/)
+
 * [Movies](https://mhatada.github.io/movie/)
