@@ -14,7 +14,15 @@ Community
 
 * [IEICE ICSS](http://www.ieice.org/~icss/index.en.html)
 
+* [IEEE COMPSAC Workshop on NETSAP](https://ieeecompsac.computer.org/2025/netsap/)
+
 * [ICT-ISAC Japan](https://www.ict-isac.jp/english/index.html)
+
+* [NCA](https://www.nca.gr.jp/en/)
+
+* [FIRST](https://www.first.org/)
+
+* [Keidanren](https://www.keidanren.or.jp/en/)
 
 * [CSDE](https://securingdigitaleconomy.org/)
 
