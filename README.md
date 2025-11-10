@@ -9,24 +9,24 @@ Publication
 Community
 -
 * [MWS](http://www.iwsec.org/mws/2012/en.html)
-  * Organizing Committee (2011~)
-  * Program Chair (2011 and 2012)
+  * Organizing Committee (2011-)
+  * Program Chair (2011, 2012)
   * General Chair (2012)
 
 * [IPSJ CSEC](http://www.iwsec.org/csec/en/index.html)
-  * Expert Member of IPSJ SIG on CSEC (2008~2010, 2017~2024)
-  * Committee of IPSJ SIG on CSEC (2013~2016)
-  * Secretary of IPSJ SIG on CSEC (2025~)
+  * Expert Member of IPSJ SIG on CSEC (2008-2010, 2017-2024)
+  * Committee of IPSJ SIG on CSEC (2013-2016)
+  * Secretary of IPSJ SIG on CSEC (2025-)
   * Editorial Committee Members of CSEC Special issue (2017, 2018)
   * Editorial Board Member of CSEC Special issue (2023, 2024)
 
 
 * [IEICE ICSS](http://www.ieice.org/~icss/index.en.html)
-  * Technical Committee Member on ICSS (2014~)
+  * Technical Committee Member on ICSS (2014-)
   * Editorial Committee Members of ICSS Special issue (2025)
 
 * [IEEE COMPSAC Workshop on NETSAP](https://ieeecompsac.computer.org/2025/netsap/)
-  * Workshop Organizer (2020~2024)
+  * Workshop Organizer (2020-2024)
 
 * [ICT-ISAC Japan](https://www.ict-isac.jp/english/index.html)
 
