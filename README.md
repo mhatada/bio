@@ -17,9 +17,13 @@ Community
   * Expert Member of IPSJ SIG on CSEC (2008~2010, 2017~2024)
   * Committee of IPSJ SIG on CSEC (2013~2016)
   * Secretary of IPSJ SIG on CSEC (2025~)
+  * Editorial Committee Members of CSEC Special issue (2017, 2018)
+  * Editorial Board Member of CSEC Special issue (2023, 2024)
+
 
 * [IEICE ICSS](http://www.ieice.org/~icss/index.en.html)
   * Technical Committee Member on ICSS (2014~)
+  * Editorial Committee Members of ICSS Special issue (2025)
 
 * [IEEE COMPSAC Workshop on NETSAP](https://ieeecompsac.computer.org/2025/netsap/)
   * Workshop Organizer (2020~2024)
