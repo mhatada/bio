@@ -1,6 +1,8 @@
 Mitsuhiro Hatada, Ph.D.
 =
-He is currently a Vice President of NTT Com-SIRT, [NTT DOCOMO BUSINESS, Inc.](https://www.ntt.com/), and an Adjunct Researcher at [NSL](https://nsl.cs.waseda.ac.jp/) in Waseda University. He received his B.E. and M.E. degrees in computer science and engineering, and Ph.D in engineering from the Waseda University in 2001, 2003 and 2018, respectively. He joined NTT Communications Corporation in 2003 and has been engaged in the research, development and operation of applied security on anti-malware, incident response and threat hunting. He worked as a Guest Researcher at [NIST](https://www.nist.gov/) from March 2019 to September 2021. He is a member of IPSJ and IEICE.
+He is currently a Vice President of NTT Com-SIRT, [NTT DOCOMO BUSINESS, Inc.](https://www.ntt.com/), and an Adjunct Researcher at [NSL](https://nsl.cs.waseda.ac.jp/) in Waseda University. He received his B.E. and M.E. degrees in computer science and engineering, and Ph.D in engineering from the Waseda University in 2001, 2003 and 2018, respectively. He joined NTT Communications Corporation in 2003 and has been engaged in the research, development and operation of applied security on anti-malware, incident response and threat hunting. He was a guest researcher at [NIST](https://www.nist.gov/) from March 2019 to September 2021. He is a member of IPSJ and IEICE.
+
+2001年早稲田大学理工学部電子・情報通信学科卒業．2003年同大学院理工学研究科修士課程修了．同年，NTTコミュニケーションズ（株）入社．2019年〜2021年，米国NIST Guest Researcher．現在，NTTドコモビジネス（株）でインシデント対応やサイバーセキュリティの研究開発に従事．博士（工学）．情報処理学会，電子情報通信学会各会員．
 
 Publication
 -
